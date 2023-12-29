@@ -1,1 +1,1 @@
-# pricing-page
+Pricing Landing Page
